@@ -1,3 +1,5 @@
+First Deploy example-backend chart then deploy superset chart
+
 Use the following commands to run this helm chart
 
 ```
